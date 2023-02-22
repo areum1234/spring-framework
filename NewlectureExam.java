@@ -38,10 +38,6 @@ public class NewlectureExam implements Exam {
 		return math;
 	}
 
-	public void setMath(int math) {
-		this.math = math;
-	}
-
 	@Override
 	public String toString() {
 		return "NewlectureExam [math=" + math + ", eng=" + eng + ", kor=" + kor + ", com=" + com + "]";
