@@ -42,30 +42,6 @@ public class NewlectureExam implements Exam {
 		this.math = math;
 	}
 
-	public int getEng() {
-		return eng;
-	}
-
-	public void setEng(int eng) {
-		this.eng = eng;
-	}
-
-	public int getKor() {
-		return kor;
-	}
-
-	public void setKor(int kor) {
-		this.kor = kor;
-	}
-
-	public int getCom() {
-		return com;
-	}
-
-	public void setCom(int com) {
-		this.com = com;
-	}
-
 	@Override
 	public String toString() {
 		return "NewlectureExam [math=" + math + ", eng=" + eng + ", kor=" + kor + ", com=" + com + "]";
