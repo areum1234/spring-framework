@@ -1,5 +1,9 @@
 a
 b
 c
+<<<<<<< HEAD
 e
+=======
+d
+>>>>>>> parent of e5ecc8a (commit version 2)
 
